@@ -1,0 +1,5 @@
+name = input ("enter the string :")
+alist = list(name)
+alist.reverse()
+finalstring = "".join(alist)
+print(finalstring)
